@@ -11,6 +11,7 @@ MySQL and SQL:
 ![image](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/04351c7c-539d-4102-8e8e-21d61a8a232b)
 
 Python:
+
 ![image](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/c4468fb7-77db-45e4-aad7-3891c26e4d1d)
 
 
