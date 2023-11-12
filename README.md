@@ -14,6 +14,9 @@ Python:
 
 ![image](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/c4468fb7-77db-45e4-aad7-3891c26e4d1d)
 
+University of Helsinki's MOOC 2023 - Python: 
+
+![image](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/de88de71-dba5-45e4-8edf-2290c773f27f)
 
 Enjoy your stay!
 
