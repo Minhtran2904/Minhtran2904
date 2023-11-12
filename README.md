@@ -3,10 +3,8 @@
 <h1>Hello there</h1>
 
 <h4>Welcome to my very own Github. I am, at the moment of this README.md is written, an aspiring programmer, a previous student at 43-Hive, Helsinki, Finland. 
-<p></p>  
-I have no experience in coding prior to the year 2022, and thus, this is an extremely special challenge for me. I manage to press on, and thus given the chance to study more!
 <p></p>
-In this hub of mine, lies different projects from Hive that I am/was attending. </h4>
+In this hub of mine, lies different projects from Hive and either open sources, or mini projects that I am/was attending and found them fascinating. </h4>
 
 👉 Check out my website featuring my Resume and Project portfolio: [My website](https://anhminh87.wixsite.com/minh-byte)
 
