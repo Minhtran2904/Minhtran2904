@@ -16,7 +16,9 @@ Python: [[Link](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/c44
 University of Helsinki's MOOC 2023 - Python: [[Link](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/de88de71-dba5-45e4-8edf-2290c773f27f)]
 
 My **background** is in Financial Analytics and Consultant. My **passion** is with programming. 
+<p></p>
 Do I have to choose only one? Not necessarily! I aspire to be a data analysis, utilizing technical tools that I gained from previous working experience, hobbies, and curiosity.
+
 My technical arsenal includes, and continues to expand from:
 - _Programming language_: Python, C, JavaScript, HTML, CSS, R (basic)
 - _Framework_: React
