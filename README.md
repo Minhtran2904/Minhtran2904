@@ -6,7 +6,7 @@
 <p></p>
 In this hub of mine, lies different projects from Hive and either open sources, or mini projects that I am/was attending and found them fascinating. </h4>
 
-👉 Check out my website featuring my Resume and Project portfolio: [My website](https://anhminh87.wixsite.com/minh-byte)
+👉 Check out my website featuring my Resume and Project portfolio: [My website](https://anhminh87.wixsite.com/minh-byte) and my [LinkedIn](https://www.linkedin.com/in/anhminh294/)
 
 Finally, I have some certification for my track record!
 MySQL and SQL: [[Link](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/04351c7c-539d-4102-8e8e-21d61a8a232b)]
