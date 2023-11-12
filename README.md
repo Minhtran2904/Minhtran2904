@@ -1,6 +1,6 @@
 
 
-Hello there,
+<h1>Hello there</h1>
 
 Welcome to my very own Github. I am, at the moment of this README.md is written, an aspiring programmer, a previous student at 42-Hive, Helsinki, Finland. 
 I have no experience in coding prior to the year 2022, and thus, this is an extremely special challenge for me. I manage to press on, and thus given the chance to study more!
@@ -17,7 +17,7 @@ University of Helsinki's MOOC 2023 - Python: [[Link](https://github.com/Minhtran
 
 My **background** is in Financial Analytics and Consultant. My **passion** is with programming. 
 Do I have to choose only one? Not necessarily! I aspire to be a data analysis, utilizing technical tools that I gained from previous working experience, hobbies, and curiosity:
-- _Programming language_: Python, C, JavaScript, HTML, CSS
+- _Programming language_: Python, C, JavaScript, HTML, CSS, R (basic)
 - _Framework_: React
 - _Data Analytics_: Pandas for Python
 - _Visualization_: Power BI, Qlik Sense
