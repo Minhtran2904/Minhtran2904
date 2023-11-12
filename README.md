@@ -7,17 +7,11 @@ I have no experience in coding prior to the year 2022, and thus, this is an extr
 In this hub of mine, lies different projects from Hive that I am/was attending. 
 
 Finally, I have some certification for my track record!
-MySQL and SQL:
-[[[Link](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/04351c7c-539d-4102-8e8e-21d61a8a232b)]
-![image](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/04351c7c-539d-4102-8e8e-21d61a8a232b)
+MySQL and SQL: [[Link](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/04351c7c-539d-4102-8e8e-21d61a8a232b)]
 
-Python:
+Python: [[Link](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/c4468fb7-77db-45e4-aad7-3891c26e4d1d)]
 
-![image](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/c4468fb7-77db-45e4-aad7-3891c26e4d1d)
-
-University of Helsinki's MOOC 2023 - Python: 
-
-![image](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/de88de71-dba5-45e4-8edf-2290c773f27f)
+University of Helsinki's MOOC 2023 - Python: [[Link](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/de88de71-dba5-45e4-8edf-2290c773f27f)]
 
 Enjoy your stay!
 
