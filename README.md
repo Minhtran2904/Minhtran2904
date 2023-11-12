@@ -8,6 +8,7 @@ In this hub of mine, lies different projects from Hive that I am/was attending.
 
 Finally, I have some certification for my track record!
 MySQL and SQL:
+[[[/images/path/to/image.ext](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/04351c7c-539d-4102-8e8e-21d61a8a232b)|LINK]]
 ![image](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/04351c7c-539d-4102-8e8e-21d61a8a232b)
 
 Python:
