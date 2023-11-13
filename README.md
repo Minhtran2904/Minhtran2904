@@ -2,11 +2,9 @@
 
 <h1>Hello there</h1>
 
-<h4>Welcome to my very own Github. I am, at the moment of this README.md is written, an aspiring programmer, a previous student at 43-Hive, Helsinki, Finland. 
-<p></p>
-In this hub of mine, lies different projects from Hive and either open sources, or mini projects that I am/was attending and found them fascinating. </h4>
+<h4>Welcome to my very own Github. I am, at the moment of this README.md is written, an aspiring programmer, a previous student at 43-Hive, Helsinki, Finland. </h4>
 
-👉 Check out my website featuring my Resume and Project portfolio: [My website](https://anhminh87.wixsite.com/minh-byte) and my [LinkedIn](https://www.linkedin.com/in/anhminh294/)
+<strong>👉 Check out my website featuring my Resume and Project portfolio: [My website](https://anhminh87.wixsite.com/minh-byte) and my [LinkedIn](https://www.linkedin.com/in/anhminh294/)</strong>
 
 Finally, I have some certification for my track record!
 MySQL and SQL: [[Link](https://github.com/Minhtran2904/Minhtran2904/assets/97359403/04351c7c-539d-4102-8e8e-21d61a8a232b)]
